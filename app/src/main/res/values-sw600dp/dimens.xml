@@ -1,0 +1,9 @@
+<resources>
+
+
+    <!-- Default screen margins for tablets per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">24dp</dimen>
+    <dimen name="activity_vertical_margin">24dp</dimen>
+
+    <dimen name="max_width_layout">704dp</dimen>
+</resources>

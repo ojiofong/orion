@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Orion Labs Assignment</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="demo">demo</string>
+    <string name="chatt">Chatt</string>
+    <string name="simple_mobile_chat">Simple mobile chat and notes.</string>
+    <string name="not_a_member_yet">Not a member? Sign up now.</string>
+    <string name="provider_authority">com.ojiofong.orionlabs.provider</string>
+    <string name="check_internet_connection">Check your internet connection</string>
+    <string name="server_down">Server is down. Please try again</string>
+    <string name="no_data_returned">No data returned</string>
+    <string name="server_invalid">Server returned an invalid data</string>
+
+
+    <string name="gps_location_settings">GPS/Location Settings</string>
+    <string name="leave_gps_off">Leave GPS off</string>
+    <string name="enable_gps_message">Please enable GPS</string>
+    <string name="location_permission_required">Access to device location is required to find districts around you</string>
+    <string name="settings">SETTINGS</string>
+    <string name="okay">Okay</string>
+    <string name="map">Map</string>
+    <string name="load_more">Load More</string>
+    <string name="enter_location">Enter location</string>
+
+
+</resources>
